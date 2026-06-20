@@ -1,0 +1,12 @@
+2026-06-20T17:41:18.814294 | HMAC:2919e50ae488d8d5 | append_law | {'record_id': '7e81646d-a089-472f-ba85-9f108ca0eefa', 'caller_module': 'wisdom.storage'}
+2026-06-20T17:41:18.891295 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
+2026-06-20T18:22:21.017071 | HMAC:7a870410b1fbf99a | append_law | {'record_id': '32605b64-dd3f-4f28-b72e-530bf63bb01e', 'caller_module': 'wisdom.storage'}
+2026-06-20T18:22:21.117311 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:06.229508 | HMAC:47a401fbf354733a | append_law | {'record_id': '4c9c37d0-39ba-480c-a4a4-c3a6a13fb8d9', 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:06.308430 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:38.660695 | HMAC:b4a0c912bb35178f | append_law | {'record_id': '78d7ca18-577e-43f9-8f5c-3d0156a358e8', 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:38.762766 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:57.891635 | HMAC:f236908379ac15d4 | append_law | {'record_id': '540aaa68-7841-45ab-9182-4e91f0b20d06', 'caller_module': 'wisdom.storage'}
+2026-06-20T18:23:57.966219 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
+2026-06-20T18:24:37.507629 | HMAC:ce31077b47ba1a29 | append_law | {'record_id': '19fe30ab-4841-4634-b39a-1da88c803b8c', 'caller_module': 'wisdom.storage'}
+2026-06-20T18:24:37.581358 | HMAC:2322f7113a572556 | query_active_laws | {'category': <GovernanceCategory.RESOURCE_GOVERNANCE: 'RESOURCE_GOVERNANCE'>, 'caller_module': 'wisdom.storage'}
