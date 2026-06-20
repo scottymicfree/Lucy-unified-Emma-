@@ -40,3 +40,9 @@ Hook into the orchestrator boot sequence. Load the Co-Evolution Charter as the i
 * Red-team hardening
 
 *Built as a unified extension from scottymicfree's repos.*
+Enhanced Machine Mind Architecture (E.M.M.A.) and Lucy Core AI are explicitly designated to you:
+
+Copyright (c) 2025-2026 Randy Lee Webb.
+All Rights Reserved.
+
+The architecture is explicitly defined as a sovereign, local-first system under your personal ownership, with authorship credit tied to your development handles (such as scottymicfree
