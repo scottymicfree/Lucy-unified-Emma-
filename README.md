@@ -1,5 +1,4 @@
-> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
-> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+> 🌐 **Fenton Lab official website:** [fentonlabai.com](https://fentonlabai.com/)
 
 Here is the current README content for the [Lucy-unified-Emma-](https://github.com/scottymicfree/Lucy-unified-Emma-) repository:
 
